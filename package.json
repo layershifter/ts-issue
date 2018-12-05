@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@types/react": "^16.7.13",
+    "typescript": "^3.2.1"
+  }
+}
